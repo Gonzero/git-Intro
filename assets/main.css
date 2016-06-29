@@ -9,3 +9,9 @@ body {
 .navbar {
 	font-size: 30px;
 }
+
+.jumbotron {
+	background-image: url("C:\Users\Sean Lehman\Desktop\dotnet-intro\assets");
+	background-size: cover;
+
+}
